@@ -46,4 +46,4 @@ Le modèle obtient les performances suivantes :
 
 ## Auteur
 
-**NAjlaa NACIF**
+**Najlaa NACIF**
